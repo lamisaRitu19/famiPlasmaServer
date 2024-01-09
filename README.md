@@ -1,11 +1,9 @@
 # FamiPlasma Web App
 
-## Getting Started
-
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/Tectrioz1/Blood_Donation_Web_B
+git clone https://github.com/lamisaRitu19/famiPlasmaServer.git
 ```
 
 Install the dependencies:
